@@ -25,5 +25,5 @@ _Disclaimer: Данная статистика не отображает мои 
 
 ![Snake animation](https://github.com/Eredin322/Eredin322/blob/output/github-contribution-grid-snake.svg)
 
-<div align="center"><h3>Я на CodeWars<h3><div>
-<p align="center"><a href="https://www.codewars.com/users/Iluha_Bandit"><img src="https://www.codewars.com/users/Iluha_Bandit/badges/large"></a></p>
+<div><h3>Я на CodeWars<h3><div>
+<p><a href="https://www.codewars.com/users/Iluha_Bandit"><img src="https://www.codewars.com/users/Iluha_Bandit/badges/large"></a></p>
