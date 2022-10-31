@@ -3,8 +3,8 @@
 Меня зовут Илья :wave: я занимаюсь веб-разработкой с 1 июля 2022 года. Вот список реализованных мной проектов:
 
 1. Полноценный веб-сайт по продаже пульсометров. <br>
-— Описание и код https://pulsimeter.iluha-bandit.ru/ <br>
-— Ссылка на хостинг https://github.com/Eredin322/Pulsimeter <br>
+— Описание и код https://github.com/Eredin322/Pulsimeter <br>
+— Ссылка на хостинг https://pulsimeter.iluha-bandit.ru/ <br>
 
 ### Стэк технологий:
 
