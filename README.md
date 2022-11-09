@@ -17,7 +17,7 @@
 - <p><img src="https://user-images.githubusercontent.com/44582613/191008160-750470bf-a62a-4fc8-8f4f-63683f486666.svg" width="25" height="25"> Gulp</p>
 - <p><img src="https://user-images.githubusercontent.com/44582613/191010586-0e0c9428-5135-480b-983c-abbb0e8eed68.svg" width="25" height="25"> Bootstrap</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eredin322&theme=prussian) <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eredin322&theme=prussian)<br>
 
 _Disclaimer: Данная статистика не отображает мои знания и компетенцию в языках и системах, она лишь загружает код из моих репозиториев на GitHub, подсчитывает и сравнивает количество кода и представляет эту информацию в удобном графическом виде_
 ### Контакты <br>
