@@ -6,6 +6,10 @@
 — Описание и код https://github.com/Eredin322/Pulsimeter <br>
 — Ссылка на хостинг https://pulsimeter.iluha-bandit.ru/ <br>
 
+2. Тренажор печати <br>
+— Описание и код [https://github.com/Eredin322/Pulsimeter](https://github.com/Eredin322/Typing-Tutor-) <br>
+— Ссылка на хостинг <br>
+
 ### Стэк технологий:
 
 - <p><img src="https://user-images.githubusercontent.com/44582613/191004729-261bef4b-e386-4768-be5c-0a6cb89f5492.svg" width="25" height="25"> HTML5</p>
