@@ -8,7 +8,7 @@
 
 2. Тренажор печати <br>
 — Описание и код [https://github.com/Eredin322/Pulsimeter](https://github.com/Eredin322/Typing-Tutor-) <br>
-— Ссылка на хостинг <br>
+— Ссылка на хостинг https://eredin322.github.io/Typing-Tutor-/<br>
 
 ### Стэк технологий:
 
