@@ -12,7 +12,7 @@
 
 ### Стэк технологий:
 
-- <p><img src="https://user-images.githubusercontent.com/44582613/191004729-261bef4b-e386-4768-be5c-0a6cb89f5492.svg" width="25" height="25"> HTML5</p>
+- <p><img src="https://user-images.githubusercontent.com/44582613/205454263-452c6b4b-a486-4036-9764-e198cb953615.svg" width="25" height="25"> HTML5</p>
 - <p><img src="https://user-images.githubusercontent.com/44582613/191005499-271f672f-c437-44af-bc92-18433f7403a2.svg" width="25" height="25"> CSS3</p>
 - <p><img src="https://user-images.githubusercontent.com/44582613/191005494-0a7f2a02-351b-4fa5-97ef-e50f858bedc3.svg" width="25" height="25"> SASS/SCSS</p>
 - <p><img src="https://user-images.githubusercontent.com/44582613/191005492-6b4cdb1c-494c-43cb-ba17-378f8f32c252.svg" width="25" height="25"> JavaScript</p>
