@@ -68,7 +68,7 @@ Overall, I am dedicated to putting in the time and effort necessary to become a 
 
 * **GitHub:** [Eredin322][github]
 
-* **Codewars:** ![image](https://www.codewars.com/users/Iluha_Bandit/badges/micro)
+* **Codewars:** ![image](https://www.codewars.com/users/rsschool_38d4297c412e81b3/badges/micro)
   
 ### :earth_asia: Languages
 
